@@ -1,0 +1,9 @@
+{
+    "name": "CustomFov",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "A mod that allows the user to change the FOV",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
